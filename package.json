@@ -8,13 +8,15 @@
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
-    "@nextui-org/react": "1.0.0-beta.13",
+    "@nextui-org/react": "^1.0.0-beta.13",
+    "axios": "^1.6.2",
+    "eslint": "8.42.0",
+    "eslint-config-next": "13.4.4",
+    "framer-motion": "^10.16.14",
+    "json-server": "^0.17.3",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "json-server": "^0.17.3",
-    "eslint": "8.42.0",
-    "eslint-config-next": "13.4.4"
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@types/node": "18.0.3",
